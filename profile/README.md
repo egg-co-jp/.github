@@ -1,2 +1,2 @@
 # こちらは一般公開ページです
-組織のメンバーはログインしてから [組織のTOPページ](https://github.com/egg-co-jp) を開いてください。
+組織のメンバーはログインしてから https://github.com/egg-co-jp を開いてください。
